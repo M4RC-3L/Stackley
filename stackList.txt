@@ -1,0 +1,8 @@
+photos|jpg|png|jpeg|ps|ai
+developer|java|py
+documents|pages|doc|docs|numbers|keynote|pdf|rtf|docx|txt
+applications|app
+music|mp3|wav|ceol|mp3
+movies|mp4|mpv|mov
+3D|mtl|obj
+Web|webloc
